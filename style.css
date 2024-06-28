@@ -1,0 +1,33 @@
+body{
+    background-color: darkred;
+}
+
+.header{
+    height: 50px;
+    width: 600px;
+    font-size: 28px;
+    background-color: white;
+    color: black;
+    padding-top: 10px;
+    border-radius: 20px;
+}
+
+.hint{
+    color: white;
+}
+
+.objects{
+    color: white;
+    font-size: 20px;
+}
+
+.aboutObject{
+    color: white;
+    font-size: 30px;
+}
+
+.imgBtn{
+    height: 50px;
+    width: 200px;
+    font-size: 25px;
+}
